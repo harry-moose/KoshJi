@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/harry-moose/KoshJi/static/css/main.073c9b0a.css",
+    "main.js": "/harry-moose/KoshJi/static/js/main.8f483fca.js",
+    "static/js/787.352cadb3.chunk.js": "/harry-moose/KoshJi/static/js/787.352cadb3.chunk.js",
+    "static/media/logo.svg": "/harry-moose/KoshJi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/harry-moose/KoshJi/index.html",
+    "main.073c9b0a.css.map": "/harry-moose/KoshJi/static/css/main.073c9b0a.css.map",
+    "main.8f483fca.js.map": "/harry-moose/KoshJi/static/js/main.8f483fca.js.map",
+    "787.352cadb3.chunk.js.map": "/harry-moose/KoshJi/static/js/787.352cadb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8f483fca.js"
+  ]
+}
